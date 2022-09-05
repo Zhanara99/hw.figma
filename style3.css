@@ -1,0 +1,86 @@
+
+
+div {
+    background-color: #fff;
+    padding: 15px 0px 15px 15px;
+}
+
+button {
+    color: #858585;
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+#action {
+    color: #fff;
+    background-color: #6c5ce7;
+    border: 1px solid  #6c5ce7;
+} 
+
+#yellow {
+    color: #2D3436;
+    background-color:   #fdcb6e;
+    border: 1px solid  #fdcb6e;
+}
+
+#beta {
+    color: #2D3436;
+    padding: 8px;
+    background-color: #fff;
+    border: 1px solid  #2D3436;
+    letter-spacing: 2,5px;
+    font-weight: 800;
+    font-size: 12px;
+    border: 1px solid;
+    border-radius: 16px;
+   
+}
+#alpha {
+    color: #fff;
+    padding: 8px;
+    background-color: #6c5ce7;
+    border: 1px solid  #6c5ce7;
+    letter-spacing: 2,5px;
+    font-weight: 800;
+    font-size: 12px;
+    border: 1px solid;
+    border-radius: 16px;
+   
+}
+
+#gamma {
+    color: #fff;
+    padding: 8px;
+    background-color: #6c5ce7;
+    border: 1px solid  #6c5ce7;
+    letter-spacing: 2,5px;
+    font-weight: 800;
+    font-size: 12px;
+    border: 1px solid;
+    border-radius: 16px;
+   
+}
+
+#new {
+    color:  #6c5ce7;
+    padding: 8px;
+    background-color:  #fdcb6e;
+    border: 1px solid   #fdcb6e;
+    letter-spacing: 2,5px;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+    border: 1px solid;
+    border-radius: 16px;
+
+}
+
+.znak {
+    background: #FFFFFF;
+    border-radius: 999px;
+}
